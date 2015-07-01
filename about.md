@@ -9,4 +9,6 @@ I started my career with a BS in Ship Design, then got a MS in Electrical Engine
 
 I've gotten a lot of help on line and this blogsite is an attempt to give a bit back.
 
+For example, I owe Joshua Lande a bunch for making his tutorial on how to build this blogsite!
+
 
